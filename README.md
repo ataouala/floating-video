@@ -1,4 +1,4 @@
-## Floating video in google chrome
+## Floating video on google chrome
 
 
 - Type F12 to Open Google Chrome DevTools
